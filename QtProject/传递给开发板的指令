@@ -1,2 +1,0 @@
-rsync -avz --progress --exclude='*.o' --exclude='*.cpp' --exclude='*.h' --exclude='Makefile*' --exclude='*.moc' build-EnviroTrend_demo-ebf_lubancat-Debug/ debian@192.168.0.100:/home/debian/EnviroTrend_demo/
-
